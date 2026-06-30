@@ -1,50 +1,36 @@
 class Solution {
 public:
-    vector<int>check( int n, vector<vector<pair<int,int>>>adj , int src){
-        vector<int> dist (n+1,INT_MAX);
-        priority_queue<pair<int,int> , vector<pair<int,int>>, greater<pair<int,int>>> q;
-        dist[src]=0;
-        q.push({0,src});
-        while(!q.empty()){
-            int node = q.top().second;
-            int dis  = q.top().first;
-            q.pop();
-             if(dis > dist[node])
-                    continue;
+    
+    int findTheCity(int n, vector<vector<int>>& edges, int k) {
+        vector<vector<int>>dist(n, vector<int>(n, INT_MAX));
+            for (int i = 0; i < n; i++) dist[i][i] = 0;
+        for(int i =0 ; i< edges.size();i++){
+            dist[edges[i][0]][edges[i][1]] = edges[i][2] ;
+            dist[edges[i][1]][edges[i][0]] = edges[i][2] ;
+        }
+        
 
-            for(auto x :adj[node]){
-                int nb =x.first;
-                int d =x.second;
-                if( dist[node] + d < dist[nb]){
-                    dist[nb] = dist[node]+d;
-                    q.push({dist[node]+d,nb});
+        for( int k =0 ; k < n ; k ++){
+            for(int i =0 ;i <n ;i++){
+                for(int j =0 ;j<n ;j++){
+
+                   if (dist[i][k] < INT_MAX && dist[k][j] < INT_MAX){ 
+                    dist[i][j] = min(dist[i][j] ,dist[i][k]+dist[k][j]);}
                 }
             }
         }
-        return dist;
-    }
-    int findTheCity(int n, vector<vector<int>>& edges, int k) {
-        vector<int> reach(n+1,0);
-        vector<vector<pair<int,int>>>adj(n+1);
-        for( int i =0 ; i< edges.size();i++){
-            adj[edges[i][0]].push_back({edges[i][1],edges[i][2]});
-            adj[edges[i][1]].push_back({edges[i][0],edges[i][2]});
-        }
-        
-       int bestCity = -1, minReach = INT_MAX;
+          int ans = -1, fewest = INT_MAX;
+        for (int i = 0; i < n; i++) {
+            int cnt = 0;
+            for (int j = 0; j < n; j++)
+                if (i != j && dist[i][j] <= k) cnt++;
 
-        for(int city = 0; city < n; city++){
-            vector<int> dist = check(n, adj, city);
-            int reach = 0;
-            for(int j = 0; j < n; j++)
-                if(j != city && dist[j] <= k) reach++;
-
-           
-            if(reach <= minReach){
-                minReach = reach;
-                bestCity = city;
+            if (cnt <= fewest) {
+                fewest = cnt;
+                ans = i;
             }
         }
-        return bestCity;
+        return ans;
+
     }
 };
