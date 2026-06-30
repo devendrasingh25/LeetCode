@@ -3,11 +3,14 @@ public:
     
     int findTheCity(int n, vector<vector<int>>& edges, int k) {
         vector<vector<int>>dist(n, vector<int>(n, INT_MAX/2));
-            for (int i = 0; i < n; i++) dist[i][i] = 0;
-        for(int i =0 ; i< edges.size();i++){
-            dist[edges[i][0]][edges[i][1]] = edges[i][2] ;
-            dist[edges[i][1]][edges[i][0]] = edges[i][2] ;
+           
+       for (int i = 0; i < n; i++) dist[i][i] = 0;
+        for (auto& it : edges) {
+            int u=it[0],v=it[1],wt=it[2];
+            dist[u][v] = wt;
+            dist[v][u] = wt;   // undirected: seed both directions
         }
+
         
 
         for( int k =0 ; k < n ; k ++){
