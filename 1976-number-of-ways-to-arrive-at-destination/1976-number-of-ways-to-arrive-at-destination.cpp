@@ -1,7 +1,7 @@
 class Solution {
 public:
     int countPaths(int n, vector<vector<int>>& roads) {
-        vector<vector<pair<int,int>>> adj(n);
+        vector<vector<pair<int,long long>>> adj(n);
         long long  mod = (int)(1e9+7);
         priority_queue<pair<long long,int>, vector<pair<long long,int>>, greater<pair<long long,int>>> q;
         vector<long long> dist (n,LLONG_MAX);
