@@ -2,7 +2,7 @@ class Solution {
 public:
     
     int findTheCity(int n, vector<vector<int>>& edges, int k) {
-        vector<vector<int>>dist(n, vector<int>(n, INT_MAX));
+        vector<vector<int>>dist(n, vector<int>(n, INT_MAX/2));
             for (int i = 0; i < n; i++) dist[i][i] = 0;
         for(int i =0 ; i< edges.size();i++){
             dist[edges[i][0]][edges[i][1]] = edges[i][2] ;
@@ -14,8 +14,9 @@ public:
             for(int i =0 ;i <n ;i++){
                 for(int j =0 ;j<n ;j++){
 
-                   if (dist[i][k] < INT_MAX && dist[k][j] < INT_MAX){ 
-                    dist[i][j] = min(dist[i][j] ,dist[i][k]+dist[k][j]);}
+                   if (dist[i][k] + dist[k][j] < dist[i][j]){ 
+                    dist[i][j] = dist[i][k]+dist[k][j];
+                    }
                 }
             }
         }
