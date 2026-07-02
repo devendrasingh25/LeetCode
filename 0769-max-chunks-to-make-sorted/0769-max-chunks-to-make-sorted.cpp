@@ -1,11 +1,21 @@
 class Solution {
 public:
     int maxChunksToSorted(vector<int>& arr) {
-          int chunks = 0, maxSoFar = 0;
-            for (int i = 0; i < arr.size(); i++) {
-              maxSoFar = max(maxSoFar, arr[i]);
-               if (maxSoFar == i) chunks++;
+          stack<int> st;
+          for( int x : arr){
+            if( st.empty() || x >= st.top()){
+                st.push(x);
             }
-       return chunks;
+            else{
+                int u = st.top();
+                st.pop();
+                while(!st.empty() &&  st.top() > x){
+                    st.pop();
+                }
+                st.push(u);
+            }
+            
+          }
+        return st.size();
     }
 };
