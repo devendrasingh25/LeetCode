@@ -56,6 +56,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/devendrasingh25/LeetCode/tree/master/0079-word-search) |
+| [0769-max-chunks-to-make-sorted](https://github.com/devendrasingh25/LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
 | [1631-path-with-minimum-effort](https://github.com/devendrasingh25/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/devendrasingh25/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/devendrasingh25/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -106,8 +107,21 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/devendrasingh25/LeetCode/tree/master/0143-reorder-list) |
+| [0769-max-chunks-to-make-sorted](https://github.com/devendrasingh25/LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
 ## Recursion
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/devendrasingh25/LeetCode/tree/master/0143-reorder-list) |
+## Greedy
+|  |
+| ------- |
+| [0769-max-chunks-to-make-sorted](https://github.com/devendrasingh25/LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
+## Sorting
+|  |
+| ------- |
+| [0769-max-chunks-to-make-sorted](https://github.com/devendrasingh25/LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0769-max-chunks-to-make-sorted](https://github.com/devendrasingh25/LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
 <!---LeetCode Topics End-->
