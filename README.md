@@ -87,6 +87,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/devendrasingh25/LeetCode/tree/master/0079-word-search) |
+| [0151-reverse-words-in-a-string](https://github.com/devendrasingh25/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/devendrasingh25/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Backtracking
 |  |
@@ -104,6 +105,7 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/devendrasingh25/LeetCode/tree/master/0143-reorder-list) |
+| [0151-reverse-words-in-a-string](https://github.com/devendrasingh25/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 ## Stack
 |  |
 | ------- |
