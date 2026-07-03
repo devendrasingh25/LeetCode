@@ -3,10 +3,8 @@ public:
     string largestOddNumber(string num) {
        int in = -1 ;
        for(int i =num.size()-1  ; i >= 0 ;i--){
-           string g = "";
-           g += num[i];
-           int n = stoi(g);
-           if( n % 2 !=0){
+           
+           if( (num[i] - '0')%2 == 1){
               in = i ;
               break ;
            }
