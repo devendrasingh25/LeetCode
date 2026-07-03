@@ -10,10 +10,9 @@ public:
            }
        }
        if(in == -1) return "";
-       string ans ="";
-       for(int i =0 ; i <= in ;i++){
-          ans+=num[i];
-       }
-       return ans;
+        else {
+            string sub = num.substr(0, in+1);
+            return sub;
+        }
     }
 };
