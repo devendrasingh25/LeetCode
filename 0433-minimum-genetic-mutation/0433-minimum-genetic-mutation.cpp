@@ -1,37 +1,37 @@
 class Solution {
 public:
     int minMutation(string start, string end, vector<string>& bank) {
-        unordered_set<string> bankset(bank.begin() , bank.end());
-
-          if (bankset.find(end) == bankset.end()) return -1; 
-        unordered_set<string> visited ;
-
+       int m  = bank.size();
+       vector<bool> used( m ,false);
         queue<string> q;
-        visited.insert(start);
-        int level =0 ;
-
+        int level = 0 ;
         q.push(start);
+
         while(!q.empty()){
-        int n = q.size();
+            int n = q.size();
 
-        while(n--){
-            string curr = q.front();
-            q.pop();
+            while(n--){
+                string curr = q.front();
+                q.pop();
 
-            if( curr == end) return level ;
+                if(curr == end) return level;
 
-            for( char ch : string("ACGT")){
-                for( int i =0 ;i < curr.length() ; i++){
-                    string nb = curr;
-                    nb[i] = ch ;
-                    if(visited.find(nb) == visited.end() && bankset.find(nb) != bankset.end()){
-                        visited.insert(nb);
-                        q.push(nb);
+                for( char ch :string("ACGT")){
+                    for( int i= 0; i< curr.length() ;i++){
+                        string nb = curr;
+                        nb[i] = ch;
+
+                        for( int j =0 ; j< m ; j++){
+                            if(!used[j] && bank[j] == nb){
+                                used[j] =true ;
+                                q.push(nb);
+                                break ;
+                            }
+                        }
                     }
                 }
             }
-        }
-        level++ ;
+            level++;
         }
         return -1;
     }
