@@ -23,6 +23,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0433-minimum-genetic-mutation](https://github.com/devendrasingh25/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0743-network-delay-time](https://github.com/devendrasingh25/LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/devendrasingh25/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/devendrasingh25/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -104,6 +105,7 @@
 | [0014-longest-common-prefix](https://github.com/devendrasingh25/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0079-word-search](https://github.com/devendrasingh25/LeetCode/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/devendrasingh25/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0433-minimum-genetic-mutation](https://github.com/devendrasingh25/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0443-string-compression](https://github.com/devendrasingh25/LeetCode/tree/master/0443-string-compression) |
 | [0796-rotate-string](https://github.com/devendrasingh25/LeetCode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/devendrasingh25/LeetCode/tree/master/1021-remove-outermost-parentheses) |
@@ -115,6 +117,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0433-minimum-genetic-mutation](https://github.com/devendrasingh25/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/devendrasingh25/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## Linked List
 |  |
