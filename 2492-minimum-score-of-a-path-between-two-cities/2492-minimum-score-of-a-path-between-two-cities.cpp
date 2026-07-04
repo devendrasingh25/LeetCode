@@ -1,34 +1,61 @@
+class DisjointUnion {
+public:
+    vector<int> par, rank_;
+
+    DisjointUnion(int n) {
+        par.resize(n);
+        rank_.assign(n, 0);
+        iota(par.begin(), par.end(), 0);
+    }
+
+    int find(int x) {
+        if (par[x] == x) return x;
+        return par[x] = find(par[x]);
+    }
+
+    void unionbyrank(int a, int b) {
+        int parA = find(a);
+        int parB = find(b);
+
+        if (parA == parB) return;
+
+        if (rank_[parA] == rank_[parB]) {
+            par[parB] = parA;
+            rank_[parA]++;
+        }
+        else if (rank_[parA] > rank_[parB]) {
+            par[parB] = parA;
+        }
+        else {
+            par[parA] = parB;
+        }
+    }
+};
+
 class Solution {
 public:
-
-   int check(int node , vector<vector<pair<int,int>>>&adj,vector<bool>&vis ){
-        vis[node] = true ;
-        int mini = INT_MAX ;
-        for( auto x : adj[node]){
-            int nb = x.first;
-            int dis = x.second;
-             mini = min(mini,dis);
-            if( !vis[nb] ){
-                vis[nb] = true;
-                mini = min(mini,check(nb, adj , vis));
-            }
-        }
-        return mini;
-    }
+   
     int minScore(int n, vector<vector<int>>& roads) {
-        vector<vector<pair<int,int>>> adj (n+1);
-        vector<bool> vis(n+1);
-        
-        for( auto it  : roads){
-            int u = it[0];
-            int v = it[1];
-            int dis = it[2];
+       DisjointUnion dsu(n+1);
 
-            adj[u].push_back({v,dis});
-            adj[v].push_back({u,dis});
-            
-        }
-        
-      return check(1,adj,vis) ; 
+       for( auto it : roads){
+         int u = it[0];
+         int v = it[1];
+          
+          dsu.unionbyrank( u, v) ;
+       }
+
+       int t = dsu.find(1);
+       int mini = INT_MAX;
+        for( auto it : roads){
+         int u = it[0];
+         int v = it[1];
+          int cost = it[2];
+          
+          if( dsu.find(u) == t){
+            mini = min(mini,cost);
+          }
+       }
+       return mini;
     }
 };
