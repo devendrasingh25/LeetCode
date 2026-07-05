@@ -74,6 +74,7 @@
 | [0769-max-chunks-to-make-sorted](https://github.com/devendrasingh25/LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
 | [1301-number-of-paths-with-max-score](https://github.com/devendrasingh25/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1631-path-with-minimum-effort](https://github.com/devendrasingh25/LeetCode/tree/master/1631-path-with-minimum-effort) |
+| [1929-concatenation-of-array](https://github.com/devendrasingh25/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/devendrasingh25/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/devendrasingh25/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/devendrasingh25/LeetCode/tree/master/3620-network-recovery-pathways) |
@@ -176,4 +177,8 @@
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/devendrasingh25/LeetCode/tree/master/1192-critical-connections-in-a-network) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/devendrasingh25/LeetCode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
