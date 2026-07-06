@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/devendrasingh25/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1137-n-th-tribonacci-number](https://github.com/devendrasingh25/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1301-number-of-paths-with-max-score](https://github.com/devendrasingh25/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/devendrasingh25/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/devendrasingh25/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -168,6 +169,7 @@
 ## Math
 |  |
 | ------- |
+| [1137-n-th-tribonacci-number](https://github.com/devendrasingh25/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/devendrasingh25/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
@@ -197,4 +199,8 @@
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/devendrasingh25/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/devendrasingh25/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
