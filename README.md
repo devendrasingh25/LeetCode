@@ -73,6 +73,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/devendrasingh25/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0739-daily-temperatures](https://github.com/devendrasingh25/LeetCode/tree/master/0739-daily-temperatures) |
 | [0769-max-chunks-to-make-sorted](https://github.com/devendrasingh25/LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
+| [1288-remove-covered-intervals](https://github.com/devendrasingh25/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/devendrasingh25/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1470-shuffle-the-array](https://github.com/devendrasingh25/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1631-path-with-minimum-effort](https://github.com/devendrasingh25/LeetCode/tree/master/1631-path-with-minimum-effort) |
@@ -158,6 +159,7 @@
 |  |
 | ------- |
 | [0769-max-chunks-to-make-sorted](https://github.com/devendrasingh25/LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
+| [1288-remove-covered-intervals](https://github.com/devendrasingh25/LeetCode/tree/master/1288-remove-covered-intervals) |
 ## Monotonic Stack
 |  |
 | ------- |
