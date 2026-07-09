@@ -5,6 +5,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/devendrasingh25/LeetCode/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/devendrasingh25/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/devendrasingh25/LeetCode/tree/master/0213-house-robber-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/devendrasingh25/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
@@ -187,6 +188,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/devendrasingh25/LeetCode/tree/master/0062-unique-paths) |
 | [1137-n-th-tribonacci-number](https://github.com/devendrasingh25/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/devendrasingh25/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/devendrasingh25/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -239,4 +241,8 @@
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/devendrasingh25/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/devendrasingh25/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
