@@ -14,6 +14,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/devendrasingh25/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/devendrasingh25/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/devendrasingh25/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/devendrasingh25/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/devendrasingh25/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Depth-First Search
 |  |
@@ -52,6 +53,7 @@
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/devendrasingh25/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/devendrasingh25/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/devendrasingh25/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/devendrasingh25/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/devendrasingh25/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Heap (Priority Queue)
 |  |
@@ -93,6 +95,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/devendrasingh25/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/devendrasingh25/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/devendrasingh25/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/devendrasingh25/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/devendrasingh25/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Binary Search
 |  |
@@ -103,6 +106,7 @@
 | [1631-path-with-minimum-effort](https://github.com/devendrasingh25/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/devendrasingh25/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/devendrasingh25/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/devendrasingh25/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/devendrasingh25/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Union-Find
 |  |
@@ -158,6 +162,7 @@
 | [0143-reorder-list](https://github.com/devendrasingh25/LeetCode/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/devendrasingh25/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/devendrasingh25/LeetCode/tree/master/0443-string-compression) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/devendrasingh25/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Stack
 |  |
 | ------- |
@@ -174,12 +179,14 @@
 | ------- |
 | [0769-max-chunks-to-make-sorted](https://github.com/devendrasingh25/LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
 | [1903-largest-odd-number-in-string](https://github.com/devendrasingh25/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/devendrasingh25/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/devendrasingh25/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0769-max-chunks-to-make-sorted](https://github.com/devendrasingh25/LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
 | [1288-remove-covered-intervals](https://github.com/devendrasingh25/LeetCode/tree/master/1288-remove-covered-intervals) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/devendrasingh25/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -245,4 +252,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/devendrasingh25/LeetCode/tree/master/0062-unique-paths) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/devendrasingh25/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
