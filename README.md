@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/devendrasingh25/LeetCode/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/devendrasingh25/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/devendrasingh25/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/devendrasingh25/LeetCode/tree/master/0213-house-robber-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/devendrasingh25/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
@@ -81,6 +82,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/devendrasingh25/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0064-minimum-path-sum](https://github.com/devendrasingh25/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/devendrasingh25/LeetCode/tree/master/0079-word-search) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/devendrasingh25/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0198-house-robber](https://github.com/devendrasingh25/LeetCode/tree/master/0198-house-robber) |
@@ -125,6 +127,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/devendrasingh25/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/devendrasingh25/LeetCode/tree/master/0079-word-search) |
 | [1301-number-of-paths-with-max-score](https://github.com/devendrasingh25/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1631-path-with-minimum-effort](https://github.com/devendrasingh25/LeetCode/tree/master/1631-path-with-minimum-effort) |
