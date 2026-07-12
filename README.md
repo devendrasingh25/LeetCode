@@ -67,6 +67,7 @@
 | [0743-network-delay-time](https://github.com/devendrasingh25/LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/devendrasingh25/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/devendrasingh25/LeetCode/tree/master/1631-path-with-minimum-effort) |
+| [2336-smallest-number-in-infinite-set](https://github.com/devendrasingh25/LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/devendrasingh25/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/devendrasingh25/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/devendrasingh25/LeetCode/tree/master/3620-network-recovery-pathways) |
@@ -164,6 +165,7 @@
 | [0433-minimum-genetic-mutation](https://github.com/devendrasingh25/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/devendrasingh25/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1331-rank-transform-of-an-array](https://github.com/devendrasingh25/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [2336-smallest-number-in-infinite-set](https://github.com/devendrasingh25/LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/devendrasingh25/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Linked List
 |  |
@@ -271,4 +273,12 @@
 |  |
 | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/devendrasingh25/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Design
+|  |
+| ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/devendrasingh25/LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
+## Ordered Set
+|  |
+| ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/devendrasingh25/LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
