@@ -97,6 +97,7 @@
 | [1288-remove-covered-intervals](https://github.com/devendrasingh25/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/devendrasingh25/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/devendrasingh25/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/devendrasingh25/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/devendrasingh25/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1631-path-with-minimum-effort](https://github.com/devendrasingh25/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1929-concatenation-of-array](https://github.com/devendrasingh25/LeetCode/tree/master/1929-concatenation-of-array) |
