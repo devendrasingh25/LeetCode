@@ -281,4 +281,8 @@
 |  |
 | ------- |
 | [2336-smallest-number-in-infinite-set](https://github.com/devendrasingh25/LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/devendrasingh25/LeetCode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
