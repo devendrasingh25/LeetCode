@@ -276,6 +276,7 @@
 ## Design
 |  |
 | ------- |
+| [0933-number-of-recent-calls](https://github.com/devendrasingh25/LeetCode/tree/master/0933-number-of-recent-calls) |
 | [2336-smallest-number-in-infinite-set](https://github.com/devendrasingh25/LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
 ## Ordered Set
 |  |
@@ -285,4 +286,12 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/devendrasingh25/LeetCode/tree/master/1291-sequential-digits) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/devendrasingh25/LeetCode/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/devendrasingh25/LeetCode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
