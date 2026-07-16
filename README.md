@@ -89,6 +89,7 @@
 | [0055-jump-game](https://github.com/devendrasingh25/LeetCode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/devendrasingh25/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/devendrasingh25/LeetCode/tree/master/0079-word-search) |
+| [0088-merge-sorted-array](https://github.com/devendrasingh25/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/devendrasingh25/LeetCode/tree/master/0120-triangle) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/devendrasingh25/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0198-house-robber](https://github.com/devendrasingh25/LeetCode/tree/master/0198-house-robber) |
@@ -181,6 +182,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/devendrasingh25/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/devendrasingh25/LeetCode/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/devendrasingh25/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/devendrasingh25/LeetCode/tree/master/0443-string-compression) |
@@ -208,6 +210,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/devendrasingh25/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/devendrasingh25/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0769-max-chunks-to-make-sorted](https://github.com/devendrasingh25/LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
 | [1288-remove-covered-intervals](https://github.com/devendrasingh25/LeetCode/tree/master/1288-remove-covered-intervals) |
