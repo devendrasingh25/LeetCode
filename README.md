@@ -85,6 +85,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/devendrasingh25/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/devendrasingh25/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0055-jump-game](https://github.com/devendrasingh25/LeetCode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/devendrasingh25/LeetCode/tree/master/0064-minimum-path-sum) |
@@ -174,6 +175,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/devendrasingh25/LeetCode/tree/master/0001-two-sum) |
 | [0433-minimum-genetic-mutation](https://github.com/devendrasingh25/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/devendrasingh25/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1331-rank-transform-of-an-array](https://github.com/devendrasingh25/LeetCode/tree/master/1331-rank-transform-of-an-array) |
