@@ -87,6 +87,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/devendrasingh25/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/devendrasingh25/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/devendrasingh25/LeetCode/tree/master/0015-3sum) |
 | [0055-jump-game](https://github.com/devendrasingh25/LeetCode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/devendrasingh25/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/devendrasingh25/LeetCode/tree/master/0079-word-search) |
@@ -189,6 +190,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/devendrasingh25/LeetCode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/devendrasingh25/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/devendrasingh25/LeetCode/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/devendrasingh25/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -218,6 +220,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/devendrasingh25/LeetCode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/devendrasingh25/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/devendrasingh25/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0769-max-chunks-to-make-sorted](https://github.com/devendrasingh25/LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
