@@ -95,6 +95,7 @@
 | [0198-house-robber](https://github.com/devendrasingh25/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/devendrasingh25/LeetCode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/devendrasingh25/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0605-can-place-flowers](https://github.com/devendrasingh25/LeetCode/tree/master/0605-can-place-flowers) |
 | [0739-daily-temperatures](https://github.com/devendrasingh25/LeetCode/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/devendrasingh25/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/devendrasingh25/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
@@ -208,6 +209,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/devendrasingh25/LeetCode/tree/master/0055-jump-game) |
+| [0605-can-place-flowers](https://github.com/devendrasingh25/LeetCode/tree/master/0605-can-place-flowers) |
 | [0769-max-chunks-to-make-sorted](https://github.com/devendrasingh25/LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
 | [1903-largest-odd-number-in-string](https://github.com/devendrasingh25/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/devendrasingh25/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
