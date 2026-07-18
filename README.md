@@ -5,6 +5,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/devendrasingh25/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/devendrasingh25/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/devendrasingh25/LeetCode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/devendrasingh25/LeetCode/tree/master/0064-minimum-path-sum) |
@@ -89,6 +90,7 @@
 | [0014-longest-common-prefix](https://github.com/devendrasingh25/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/devendrasingh25/LeetCode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/devendrasingh25/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/devendrasingh25/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/devendrasingh25/LeetCode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/devendrasingh25/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/devendrasingh25/LeetCode/tree/master/0079-word-search) |
@@ -194,6 +196,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/devendrasingh25/LeetCode/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/devendrasingh25/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/devendrasingh25/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/devendrasingh25/LeetCode/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/devendrasingh25/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -204,6 +207,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/devendrasingh25/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/devendrasingh25/LeetCode/tree/master/0143-reorder-list) |
 | [0739-daily-temperatures](https://github.com/devendrasingh25/LeetCode/tree/master/0739-daily-temperatures) |
 | [0769-max-chunks-to-make-sorted](https://github.com/devendrasingh25/LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
@@ -234,6 +238,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/devendrasingh25/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/devendrasingh25/LeetCode/tree/master/0739-daily-temperatures) |
 | [0769-max-chunks-to-make-sorted](https://github.com/devendrasingh25/LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
 ## Math
