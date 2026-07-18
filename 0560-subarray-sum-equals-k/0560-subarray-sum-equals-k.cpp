@@ -1,15 +1,15 @@
 class Solution {
 public:
-    int subarraySum(vector<int>& nums, int k) {
-        int count =0 ;
-
-        for( int i =0 ;i < nums.size() ;i ++){
-            int sum =0 ;
-            for( int j = i ; j< nums.size() ;j++){
-                 sum += nums[j] ;
-
-                 if( sum == k) count++;
+    int subarraySum(vector<int>& v, int k) {
+        map<int, int> m;
+        int count=0, sum = 0;
+        m[0] = 1;
+        for (auto i : v) {
+            sum += i;
+            if (m.count(sum - k)) {
+                count += m[sum - k];
             }
+            m[sum]++;
         }
         return count;
     }
