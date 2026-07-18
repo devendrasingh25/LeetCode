@@ -110,6 +110,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/devendrasingh25/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1631-path-with-minimum-effort](https://github.com/devendrasingh25/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1929-concatenation-of-array](https://github.com/devendrasingh25/LeetCode/tree/master/1929-concatenation-of-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/devendrasingh25/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/devendrasingh25/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/devendrasingh25/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/devendrasingh25/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -241,6 +242,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/devendrasingh25/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/devendrasingh25/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/devendrasingh25/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/devendrasingh25/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/devendrasingh25/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/devendrasingh25/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/devendrasingh25/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -330,6 +332,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/devendrasingh25/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/devendrasingh25/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/devendrasingh25/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/devendrasingh25/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
