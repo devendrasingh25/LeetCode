@@ -1,25 +1,21 @@
 class Solution {
 public:
     vector<vector<int>> merge(vector<vector<int>>& inter) {
-        vector<vector<int>> ans ;
-        sort(inter.begin() , inter.end());
+        vector<vector<int>> ans;
+        if (inter.empty()) return ans;
 
-        for( int i =0 ;i < inter.size() ;i++){
-            int start = inter[i][0];
-            int end = inter[i][1];
-            if(!ans.empty() && end <= ans.back()[1] ) continue;
+        sort(inter.begin(), inter.end());
 
-            for( int j =i+1 ; j < inter.size() ;j++){
-              if ( inter[j][0] <= end){
-                end = max( inter[j][1] , end);
-              }
-              else{
-                break;
-              }
+        ans.push_back(inter[0]);
+
+        for (int i = 1; i < inter.size(); i++) {
+            if (inter[i][0] <= ans.back()[1]) {
+                ans.back()[1] = max(ans.back()[1], inter[i][1]);
+            } else {
+                ans.push_back(inter[i]);
             }
-
-            ans.push_back({start, end}) ;
         }
+
         return ans;
     }
 };
