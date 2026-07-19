@@ -102,6 +102,7 @@
 | [0120-triangle](https://github.com/devendrasingh25/LeetCode/tree/master/0120-triangle) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/devendrasingh25/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/devendrasingh25/LeetCode/tree/master/0164-maximum-gap) |
+| [0189-rotate-array](https://github.com/devendrasingh25/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/devendrasingh25/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/devendrasingh25/LeetCode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/devendrasingh25/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -211,6 +212,7 @@
 | [0088-merge-sorted-array](https://github.com/devendrasingh25/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/devendrasingh25/LeetCode/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/devendrasingh25/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/devendrasingh25/LeetCode/tree/master/0189-rotate-array) |
 | [0443-string-compression](https://github.com/devendrasingh25/LeetCode/tree/master/0443-string-compression) |
 | [1768-merge-strings-alternately](https://github.com/devendrasingh25/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/devendrasingh25/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -267,6 +269,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/devendrasingh25/LeetCode/tree/master/0062-unique-paths) |
 | [0172-factorial-trailing-zeroes](https://github.com/devendrasingh25/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/devendrasingh25/LeetCode/tree/master/0189-rotate-array) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/devendrasingh25/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/devendrasingh25/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/devendrasingh25/LeetCode/tree/master/1903-largest-odd-number-in-string) |
