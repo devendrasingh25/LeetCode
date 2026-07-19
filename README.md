@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/devendrasingh25/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/devendrasingh25/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/devendrasingh25/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/devendrasingh25/LeetCode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/devendrasingh25/LeetCode/tree/master/0064-minimum-path-sum) |
@@ -91,6 +92,7 @@
 | [0015-3sum](https://github.com/devendrasingh25/LeetCode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/devendrasingh25/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/devendrasingh25/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/devendrasingh25/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/devendrasingh25/LeetCode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/devendrasingh25/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/devendrasingh25/LeetCode/tree/master/0079-word-search) |
@@ -309,6 +311,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/devendrasingh25/LeetCode/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/devendrasingh25/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |
