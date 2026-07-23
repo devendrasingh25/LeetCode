@@ -8,11 +8,11 @@ public:
 
         int i = 0;
         while (i < n) {
-            if (formula[i] == '{' || formula[i] == '(' || formula[i] == '[') {
+            if (formula[i] == '(' ) {
                 st.push(unordered_map<string, int>());
                 i++;
             }
-            else if (formula[i] == '}' || formula[i] == ')' || formula[i] == ']') {
+            else if (formula[i] == ')' ) {
                 unordered_map<string, int> curr = st.top();
                 st.pop();
                 i++;
