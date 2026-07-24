@@ -204,6 +204,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/devendrasingh25/LeetCode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/devendrasingh25/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/devendrasingh25/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0433-minimum-genetic-mutation](https://github.com/devendrasingh25/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0560-subarray-sum-equals-k](https://github.com/devendrasingh25/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0726-number-of-atoms](https://github.com/devendrasingh25/LeetCode/tree/master/0726-number-of-atoms) |
@@ -216,6 +217,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/devendrasingh25/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/devendrasingh25/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/devendrasingh25/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/devendrasingh25/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
@@ -225,6 +227,7 @@
 | [0042-trapping-rain-water](https://github.com/devendrasingh25/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/devendrasingh25/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/devendrasingh25/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/devendrasingh25/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/devendrasingh25/LeetCode/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/devendrasingh25/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/devendrasingh25/LeetCode/tree/master/0189-rotate-array) |
