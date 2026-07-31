@@ -9,9 +9,7 @@ public:
             int u = (word[i] - 'a');
             hash[u]++;
         }
-         sort( hash.begin() ,hash.end());
-         reverse( hash.begin() ,hash.end());
-         
+          sort(hash.rbegin(),hash.rend());
            int ans = 0;
            for (int i = 0; i < 26; i++) {
             if (hash[i] == 0) break;
