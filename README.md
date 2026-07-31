@@ -310,6 +310,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/devendrasingh25/LeetCode/tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/devendrasingh25/LeetCode/tree/master/0062-unique-paths) |
 | [0172-factorial-trailing-zeroes](https://github.com/devendrasingh25/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/devendrasingh25/LeetCode/tree/master/0189-rotate-array) |
