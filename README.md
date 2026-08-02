@@ -117,6 +117,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/devendrasingh25/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/devendrasingh25/LeetCode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devendrasingh25/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0706-design-hashmap](https://github.com/devendrasingh25/LeetCode/tree/master/0706-design-hashmap) |
 | [0739-daily-temperatures](https://github.com/devendrasingh25/LeetCode/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/devendrasingh25/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/devendrasingh25/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
@@ -219,6 +220,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/devendrasingh25/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0433-minimum-genetic-mutation](https://github.com/devendrasingh25/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0560-subarray-sum-equals-k](https://github.com/devendrasingh25/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0706-design-hashmap](https://github.com/devendrasingh25/LeetCode/tree/master/0706-design-hashmap) |
 | [0726-number-of-atoms](https://github.com/devendrasingh25/LeetCode/tree/master/0726-number-of-atoms) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/devendrasingh25/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1331-rank-transform-of-an-array](https://github.com/devendrasingh25/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -235,6 +237,7 @@
 | [0143-reorder-list](https://github.com/devendrasingh25/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/devendrasingh25/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0382-linked-list-random-node](https://github.com/devendrasingh25/LeetCode/tree/master/0382-linked-list-random-node) |
+| [0706-design-hashmap](https://github.com/devendrasingh25/LeetCode/tree/master/0706-design-hashmap) |
 ## Two Pointers
 |  |
 | ------- |
@@ -411,6 +414,7 @@
 ## Design
 |  |
 | ------- |
+| [0706-design-hashmap](https://github.com/devendrasingh25/LeetCode/tree/master/0706-design-hashmap) |
 | [0933-number-of-recent-calls](https://github.com/devendrasingh25/LeetCode/tree/master/0933-number-of-recent-calls) |
 | [2336-smallest-number-in-infinite-set](https://github.com/devendrasingh25/LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
 ## Ordered Set
@@ -470,4 +474,8 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/devendrasingh25/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/devendrasingh25/LeetCode/tree/master/0877-stone-game) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/devendrasingh25/LeetCode/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
