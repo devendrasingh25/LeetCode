@@ -123,6 +123,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/devendrasingh25/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0769-max-chunks-to-make-sorted](https://github.com/devendrasingh25/LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0877-stone-game](https://github.com/devendrasingh25/LeetCode/tree/master/0877-stone-game) |
+| [1207-unique-number-of-occurrences](https://github.com/devendrasingh25/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/devendrasingh25/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/devendrasingh25/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/devendrasingh25/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
@@ -224,6 +225,7 @@
 | [0706-design-hashmap](https://github.com/devendrasingh25/LeetCode/tree/master/0706-design-hashmap) |
 | [0726-number-of-atoms](https://github.com/devendrasingh25/LeetCode/tree/master/0726-number-of-atoms) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/devendrasingh25/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1207-unique-number-of-occurrences](https://github.com/devendrasingh25/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/devendrasingh25/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/devendrasingh25/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2336-smallest-number-in-infinite-set](https://github.com/devendrasingh25/LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
