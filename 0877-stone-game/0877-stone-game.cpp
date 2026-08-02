@@ -1,29 +1,18 @@
 class Solution {
 public:
-    int t[501][501] ;
-    int solve( int i  , int j , vector<int>& piles){
-
-        if(i>j) return 0 ;
-
-        if( i == j ) return piles[i] ;
-
-        if( t[i][j] != -1) return t[i][j] ;
-
-        int takei = piles[i] + min(solve(i+2 , j ,piles) , solve( i+1 , j-1 ,piles ));
-        int takej = piles[j] + min(solve(i , j-2 ,piles) , solve( i+1 , j-1,piles ));
-
-        return t[i][j] = max( takei , takej);
-    }
     bool stoneGame(vector<int>& piles) {
-       int n = piles.size();
-       memset( t , -1 ,sizeof(t)) ;
-       int total = accumulate(piles.begin(),piles.end(),0);
+        int n = piles.size();
+        vector<vector<int>> dp(n, vector<int>(n, 0));
 
-       int alice = solve( 0 , n-1 , piles) ;
+        for (int i = 0; i < n; i++) dp[i][i] = piles[i];
 
-       int bob = total - alice ;
+        for (int len = 2; len <= n; len++) {
+            for (int i = 0; i + len - 1 < n; i++) {
+                int j = i + len - 1;
+                dp[i][j] = max(piles[i] - dp[i+1][j], piles[j] - dp[i][j-1]);
+            }
+        }
 
-
-       return alice > bob ? true : false ; 
+        return dp[0][n-1] > 0;
     }
 };
