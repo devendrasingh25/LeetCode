@@ -21,6 +21,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/devendrasingh25/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1301-number-of-paths-with-max-score](https://github.com/devendrasingh25/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/devendrasingh25/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1406-stone-game-iii](https://github.com/devendrasingh25/LeetCode/tree/master/1406-stone-game-iii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/devendrasingh25/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/devendrasingh25/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/devendrasingh25/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -128,6 +129,7 @@
 | [1288-remove-covered-intervals](https://github.com/devendrasingh25/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/devendrasingh25/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/devendrasingh25/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1406-stone-game-iii](https://github.com/devendrasingh25/LeetCode/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/devendrasingh25/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/devendrasingh25/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/devendrasingh25/LeetCode/tree/master/1470-shuffle-the-array) |
@@ -332,6 +334,7 @@
 | [0877-stone-game](https://github.com/devendrasingh25/LeetCode/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/devendrasingh25/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/devendrasingh25/LeetCode/tree/master/1137-n-th-tribonacci-number) |
+| [1406-stone-game-iii](https://github.com/devendrasingh25/LeetCode/tree/master/1406-stone-game-iii) |
 | [1903-largest-odd-number-in-string](https://github.com/devendrasingh25/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/devendrasingh25/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/devendrasingh25/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -478,8 +481,17 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/devendrasingh25/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/devendrasingh25/LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/devendrasingh25/LeetCode/tree/master/1406-stone-game-iii) |
 ## Hash Function
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/devendrasingh25/LeetCode/tree/master/0706-design-hashmap) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/devendrasingh25/LeetCode/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/devendrasingh25/LeetCode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
