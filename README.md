@@ -47,6 +47,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/devendrasingh25/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/devendrasingh25/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/devendrasingh25/LeetCode/tree/master/1631-path-with-minimum-effort) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/devendrasingh25/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/devendrasingh25/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/devendrasingh25/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/devendrasingh25/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -135,6 +136,7 @@
 | [1470-shuffle-the-array](https://github.com/devendrasingh25/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1572-matrix-diagonal-sum](https://github.com/devendrasingh25/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1631-path-with-minimum-effort](https://github.com/devendrasingh25/LeetCode/tree/master/1631-path-with-minimum-effort) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/devendrasingh25/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1929-concatenation-of-array](https://github.com/devendrasingh25/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/devendrasingh25/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/devendrasingh25/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -182,6 +184,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/devendrasingh25/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1572-matrix-diagonal-sum](https://github.com/devendrasingh25/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1631-path-with-minimum-effort](https://github.com/devendrasingh25/LeetCode/tree/master/1631-path-with-minimum-effort) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/devendrasingh25/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/devendrasingh25/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/devendrasingh25/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Topological Sort
