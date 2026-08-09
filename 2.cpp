@@ -19,6 +19,6 @@ int main(){
         sum += nums[i];
     }
 
-    cout << sum << endl;
+    cout << sum ;
     return 0;
 }
