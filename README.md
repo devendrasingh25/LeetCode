@@ -148,6 +148,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/devendrasingh25/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/devendrasingh25/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/devendrasingh25/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/devendrasingh25/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/devendrasingh25/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/devendrasingh25/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/devendrasingh25/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -244,6 +245,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/devendrasingh25/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/devendrasingh25/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2336-smallest-number-in-infinite-set](https://github.com/devendrasingh25/LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/devendrasingh25/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/devendrasingh25/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/devendrasingh25/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/devendrasingh25/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -533,4 +535,8 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/devendrasingh25/LeetCode/tree/master/1510-stone-game-iv) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/devendrasingh25/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
