@@ -246,6 +246,7 @@
 | [0001-two-sum](https://github.com/devendrasingh25/LeetCode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/devendrasingh25/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/devendrasingh25/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0398-random-pick-index](https://github.com/devendrasingh25/LeetCode/tree/master/0398-random-pick-index) |
 | [0433-minimum-genetic-mutation](https://github.com/devendrasingh25/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0560-subarray-sum-equals-k](https://github.com/devendrasingh25/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0706-design-hashmap](https://github.com/devendrasingh25/LeetCode/tree/master/0706-design-hashmap) |
@@ -364,6 +365,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/devendrasingh25/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/devendrasingh25/LeetCode/tree/master/0189-rotate-array) |
 | [0382-linked-list-random-node](https://github.com/devendrasingh25/LeetCode/tree/master/0382-linked-list-random-node) |
+| [0398-random-pick-index](https://github.com/devendrasingh25/LeetCode/tree/master/0398-random-pick-index) |
 | [0486-predict-the-winner](https://github.com/devendrasingh25/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devendrasingh25/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/devendrasingh25/LeetCode/tree/master/0877-stone-game) |
@@ -517,10 +519,12 @@
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/devendrasingh25/LeetCode/tree/master/0382-linked-list-random-node) |
+| [0398-random-pick-index](https://github.com/devendrasingh25/LeetCode/tree/master/0398-random-pick-index) |
 ## Randomized
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/devendrasingh25/LeetCode/tree/master/0382-linked-list-random-node) |
+| [0398-random-pick-index](https://github.com/devendrasingh25/LeetCode/tree/master/0398-random-pick-index) |
 ## Counting Sort
 |  |
 | ------- |
