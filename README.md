@@ -35,6 +35,7 @@
 | ------- |
 | [0079-word-search](https://github.com/devendrasingh25/LeetCode/tree/master/0079-word-search) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/devendrasingh25/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/devendrasingh25/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0743-network-delay-time](https://github.com/devendrasingh25/LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/devendrasingh25/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/devendrasingh25/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -436,14 +437,17 @@
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/devendrasingh25/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/devendrasingh25/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/devendrasingh25/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/devendrasingh25/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/devendrasingh25/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/devendrasingh25/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 ## Memoization
 |  |
 | ------- |
