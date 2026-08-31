@@ -289,6 +289,7 @@
 | [0206-reverse-linked-list](https://github.com/devendrasingh25/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0382-linked-list-random-node](https://github.com/devendrasingh25/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0706-design-hashmap](https://github.com/devendrasingh25/LeetCode/tree/master/0706-design-hashmap) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/devendrasingh25/LeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Two Pointers
 |  |
 | ------- |
