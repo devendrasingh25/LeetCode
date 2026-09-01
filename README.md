@@ -10,6 +10,7 @@
 | [0055-jump-game](https://github.com/devendrasingh25/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/devendrasingh25/LeetCode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/devendrasingh25/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0096-unique-binary-search-trees](https://github.com/devendrasingh25/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0120-triangle](https://github.com/devendrasingh25/LeetCode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/devendrasingh25/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/devendrasingh25/LeetCode/tree/master/0213-house-robber-ii) |
@@ -385,6 +386,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/devendrasingh25/LeetCode/tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/devendrasingh25/LeetCode/tree/master/0062-unique-paths) |
+| [0096-unique-binary-search-trees](https://github.com/devendrasingh25/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0172-factorial-trailing-zeroes](https://github.com/devendrasingh25/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/devendrasingh25/LeetCode/tree/master/0189-rotate-array) |
 | [0382-linked-list-random-node](https://github.com/devendrasingh25/LeetCode/tree/master/0382-linked-list-random-node) |
@@ -441,16 +443,19 @@
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/devendrasingh25/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/devendrasingh25/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/devendrasingh25/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/devendrasingh25/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/devendrasingh25/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/devendrasingh25/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/devendrasingh25/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/devendrasingh25/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/devendrasingh25/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 ## Memoization
