@@ -11,6 +11,7 @@
 | [0062-unique-paths](https://github.com/devendrasingh25/LeetCode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/devendrasingh25/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0096-unique-binary-search-trees](https://github.com/devendrasingh25/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0115-distinct-subsequences](https://github.com/devendrasingh25/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/devendrasingh25/LeetCode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/devendrasingh25/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/devendrasingh25/LeetCode/tree/master/0213-house-robber-ii) |
@@ -231,6 +232,7 @@
 | [0008-string-to-integer-atoi](https://github.com/devendrasingh25/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/devendrasingh25/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0079-word-search](https://github.com/devendrasingh25/LeetCode/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/devendrasingh25/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/devendrasingh25/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0316-remove-duplicate-letters](https://github.com/devendrasingh25/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0433-minimum-genetic-mutation](https://github.com/devendrasingh25/LeetCode/tree/master/0433-minimum-genetic-mutation) |
