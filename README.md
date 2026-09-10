@@ -45,6 +45,7 @@
 | [1192-critical-connections-in-a-network](https://github.com/devendrasingh25/LeetCode/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/devendrasingh25/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/devendrasingh25/LeetCode/tree/master/1631-path-with-minimum-effort) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/devendrasingh25/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/devendrasingh25/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/devendrasingh25/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/devendrasingh25/LeetCode/tree/master/3310-remove-methods-from-project) |
@@ -458,6 +459,7 @@
 | [0096-unique-binary-search-trees](https://github.com/devendrasingh25/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/devendrasingh25/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/devendrasingh25/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/devendrasingh25/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -470,6 +472,7 @@
 | [0096-unique-binary-search-trees](https://github.com/devendrasingh25/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/devendrasingh25/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/devendrasingh25/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/devendrasingh25/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Memoization
 |  |
 | ------- |
