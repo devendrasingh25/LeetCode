@@ -10,8 +10,8 @@ public:
                 for (int l = 0; l < n; l++) {
                     if (l == i || l == j) continue;
 
-                    if (digits[i] == 0) continue;       // no leading zero
-                    if (digits[l] % 2 != 0) continue;   // last digit must be even
+                    if (digits[i] == 0) continue;       
+                    if (digits[l] % 2 != 0) continue;   
 
                     int num = digits[i] * 100 + digits[j] * 10 + digits[l];
                     results.insert(num);
