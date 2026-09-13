@@ -138,6 +138,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/devendrasingh25/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/devendrasingh25/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0769-max-chunks-to-make-sorted](https://github.com/devendrasingh25/LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
+| [0835-image-overlap](https://github.com/devendrasingh25/LeetCode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/devendrasingh25/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/devendrasingh25/LeetCode/tree/master/1140-stone-game-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/devendrasingh25/LeetCode/tree/master/1207-unique-number-of-occurrences) |
@@ -219,6 +220,7 @@
 | ------- |
 | [0064-minimum-path-sum](https://github.com/devendrasingh25/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/devendrasingh25/LeetCode/tree/master/0079-word-search) |
+| [0835-image-overlap](https://github.com/devendrasingh25/LeetCode/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/devendrasingh25/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/devendrasingh25/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1572-matrix-diagonal-sum](https://github.com/devendrasingh25/LeetCode/tree/master/1572-matrix-diagonal-sum) |
